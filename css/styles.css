@@ -5,3 +5,71 @@
 .op-term-hidden {
   display: none;
 }
+
+.var-term-hidden {
+  display: none;
+}
+
+.var-name-term-hidden {
+  display: none;
+}
+
+.funct-term-hidden {
+  display: none;
+}
+
+.met-term-hidden {
+  display: none;
+}
+
+.arg-term-hidden {
+  display: none;
+}
+
+.para-term-hidden {
+  display: none;
+}
+
+.ret-term-hidden {
+  display: none;
+}
+
+.cha-term-hidden {
+  display: none;
+}
+
+.str-term-hidden {
+  display: none;
+}
+
+.bool-term-hidden {
+  display: none;
+}
+
+.und-term-hidden {
+  display: none;
+}
+
+.nan-term-hidden {
+  display: none;
+}
+
+.null-term-hidden {
+  display: none;
+}
+
+.ale-term-hidden {
+  display: none;
+}
+
+.com-term-hidden {
+  display: none;
+}
+
+.jq-term-hidden {
+  display: none;
+}
+
+.att-term-hidden {
+  display: none;
+}
