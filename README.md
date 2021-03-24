@@ -1,4 +1,4 @@
-#### To see my live website go to TorchAblaze.github.io/flashcard!
+#### To see my live website go to [TorchAblaze.github.io/flashcard!](TorchAblaze.github.io/flashcard)
 
 ## Known Bugs
 
