@@ -26,8 +26,7 @@ Open via Bash/GitBash:
 
 ## Known Bugs
 
-1. Replace "Definition" with actual definition
-2. Code is repetitive/messy :(
+1. Code is repetitive/messy
 
 ## Support and contact details
 
